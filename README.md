@@ -1,2 +1,2 @@
 # webdev
-#Repository consisting of the assignments/projects I submitted in the webdevelopment course
+Repository consisting of the assignments/projects I submitted in the web development course
